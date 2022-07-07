@@ -1,0 +1,19 @@
+{
+  "blurb": "Implement a clock that handles times without dates.",
+  "authors": [
+    "rpottsoh"
+  ],
+  "files": {
+    "solution": [
+      "uClock.pas"
+    ],
+    "test": [
+      "uClockTests.pas"
+    ],
+    "example": [
+      ".meta/uClockExample.pas"
+    ]
+  },
+  "source": "Pairing session with Erin Drummond",
+  "source_url": "https://twitter.com/ebdrummond"
+}
